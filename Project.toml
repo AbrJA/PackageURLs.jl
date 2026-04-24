@@ -1,6 +1,6 @@
 name = "PackageURLs"
 uuid = "c2271b70-7219-4bda-bcc3-62ec08ead5b7"
-version = "0.5.0"
+version = "0.6.0"
 authors = ["PackageURLs.jl Contributors"]
 
 [deps]
